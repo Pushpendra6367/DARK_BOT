@@ -54,7 +54,7 @@ Darkbot made by @Harsh_78. Join for update related info channel and group :- htt
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/H1M4N5HU0P/MAFIABOT
+git clone https://github.com/Harsh-78/DARK-USERBOT/
 cd MAFIABOT
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
@@ -114,7 +114,7 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 
 Copyright (C) 2021 H1M4N5HU0P
 
-Poject [MAFIABOT](https://github.com/H1M4N5HU0P/MAFIABOT) is free software: you can redistribute it and/or modify
+Poject [DARKBOT](https://github.com/Harsh-78/DARK-USERBOT/) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
