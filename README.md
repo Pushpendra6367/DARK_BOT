@@ -43,7 +43,7 @@ Darkbot made by @Harsh_78. Join for update related info channel and group :- htt
 <details>
 
   <summary> • CREDITS👀 • </summary>
-<h2 align="center"> <a href="https://github.com/HellBoy-OP/HellBot">💥 HELLBOT 💥</a></h2>
+<h2 align="center"> <a href="https://t.me/Harsh_78">💥 DARKBOT 💥</a></h2>
  One and only. Others with some misfuntioning brain stay out from this SUPER POWERFULL BOT😏
 
 </details>
