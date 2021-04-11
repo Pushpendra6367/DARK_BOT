@@ -23,8 +23,7 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your 
-      Full name or Username like @HARSH_78 . By default it is DarkBot User",
+      "description": "Fill your Full name or Username like @HARSH_78 . By default it is DarkBot User",
       "value": "@Dark_bot_support",
       "required": false
     },
