@@ -1,1 +1,1 @@
-worker: bash Darkbot
+worker: bash darkbot
