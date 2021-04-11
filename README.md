@@ -1,6 +1,6 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/H1M4N5HU0P/MAFIA-USERBOT/dashboard)
 [![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
-![GitHub repo size](https://img.shields.io/github/repo-size/H1M4N5HU0P/MAFIABOT)
+![GitHub repo size](https://img.shields.io/github/repo-size/Harsh-78/DARK-USERBOT)
 [![HitCount](http://hits.dwyl.com/H1M4N5HU0P/MAFIA-USERBOT.svg)](http://hits.dwyl.com/H1M4N5HU0P/MAFIA-USERBOT)
 [![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/Harsh_78)
 
@@ -56,7 +56,7 @@ Very easy to deploy. You can deploy Darkbot in very less time
 Simply clone the repository and run the main file:
 ```sh
 git clone https://github.com/Harsh-78/DARK-USERBOT
-cd MAFIABOT
+cd DARKBOT
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
