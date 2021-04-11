@@ -15,6 +15,7 @@ bwb==3.0.0
 cfscrape
 chromedriver_autoinstaller
 coffeehouse==2.2.4
+covid
 cowpy
 cryptg
 colorama>=0.4.3
