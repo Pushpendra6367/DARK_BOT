@@ -113,7 +113,7 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-Copyright (C) 2021 H1M4N5HU0P
+Copyright (C) 2021 HARSH-78
 
 Poject [DARKBOT](https://github.com/Harsh-78/DARK-USERBOT/) is free software: you can redistribute it and/or modify
 
