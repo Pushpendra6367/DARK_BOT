@@ -122,7 +122,7 @@
     },
     "TG_BOT_TOKEN_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.dog/BotFather) and get the token of your bot. And Don't Forget To Turn on inline Mode on bot settings. Get it.",
-      "value": "1526593015:AAGvwxuXDab9J34v4PPP_clQemMIVamdcU8p"
+      "value": "1526593015:AAGvwxuXDab9J34v4PPP_clQemMIVamdcU8"
     },
     "CHROME_BIN": {
       "description": "For Carbon.py. Leave as it is. ",
