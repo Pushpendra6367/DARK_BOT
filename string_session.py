@@ -55,7 +55,7 @@ while True:
             )
 
             print(
-                "Thanks for Choosing DarkBot Have A Good Time....Note That When You Terminate the Old Session ComeBack And Genrate A New String Session Old One Wont Work"
+                "Thanks for Choosing DarkBot Have A Good Time....Note That When You Terminate the old Session then Come Back And Generate A New String Session Old One Wont Work"
             )
     except:
         print("")
