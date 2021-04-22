@@ -22,7 +22,7 @@ Harsh_hu_bc = """
 Made With Mind by Harsh
 """
 print("")
-print(Style.BRIGHT + Fore.PINK + Harsh)
+print(Style.BRIGHT + Fore.GOLD + Harsh)
 print(Style.RESET_ALL)
 print(Style.BRIGHT + Fore.BLUE + logo)
 print(Style.RESET_ALL)
