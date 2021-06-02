@@ -7,7 +7,7 @@
 [![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/Harsh_78)
 [![GitHub tag](https://img.shields.io/github/tag/Harsh-78/Dark-Userbot?include_prereleases=&sort=semver)](https://github.com/Harsh-78/Dark-Userbot/releases/)
 [![License](https://img.shields.io/badge/License-GNU-blue)](#license)
-[![issues - Dark-Userbot](https://img.shields.io/github/issues/Harsh-78/Dark-Userbot)](https://github.com/Harsh-78/Dark-Userbot/issues
+[![issues - Dark-Userbot](https://img.shields.io/github/issues/Harsh-78/Dark-Userbot)](https://github.com/Harsh-78/Dark-Userbot/issues)
 
 
 
