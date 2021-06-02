@@ -17,7 +17,7 @@
 
  - Make and enjoy your bot ❣️
 
- - Join for update related info channel and group :-<a href="https://t.me/Furious_X_Y"><img src="https://img.shields.io/badge/Join-Support%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
+ - Join for update related info channel and group :-   <a href="https://t.me/Furious_X_Y"><img src="https://img.shields.io/badge/Join-Support%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
 
  - Thanks for visiting our repo💖
 
@@ -84,7 +84,7 @@
  <h2 align="center"> <a href="https://github.com/The-hellbot/hellbot">💥 HELLBOT 💥</a></h2>
 
 
-## • Harsh-78 ※┄┄➳  <a href="https://github.com/Harsh-78" alt="Harsh-78"> <img src="https://img.shields.io/badge/Harsh-78-E5E4E2?logo=github" /></a>
+## • HARSH-78 ※┄┄➳  <a href="https://github.com/Harsh-78" alt="Harsh-78"> <img src="https://img.shields.io/badge/Harsh-78-E5E4E2?logo=github" /></a>
 
 
 ## • FURIOUS XY ※┄┄➳  <a href="https://github.com/Furious-xy" alt="FURIOUS-XY"> <img src="https://img.shields.io/badge/Furious-XY-E5E4E2?logo=github" /></a>
