@@ -29,7 +29,7 @@
 
 <details>
 
-<Summary> <h2> 🧾INSTRUCTIONS🧾 </h2> </Summary>
+<Summary>  🧾INSTRUCTIONS🧾  </Summary>
 
 - Read carefully
         
