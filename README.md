@@ -1,7 +1,6 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/Harsh-78/DARK-USERBOT/dashboard?branch=master)
-[![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
+[![Python 3.9](https://img.shields.io/badge/Python-3.9%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Harsh-78/DARK-USERBOT)
-[![HitCount](http://hits.dwyl.com/HARSH-78/DARK-USERBOT.svg)](http://hits.dwyl.com/HARSH-78/DARK-USERBOT)
 [![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/Harsh_78)
 
 
