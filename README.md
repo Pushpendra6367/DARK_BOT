@@ -17,7 +17,8 @@
 
  - Make and enjoy your bot ❣️
 
- - Join for update related info channel and group :-   /n <a href="https://t.me/Furious_X_Y"><img src="https://img.shields.io/badge/Join-Support%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
+ - Join for update related info channel and group :-   
+ <a href="https://t.me/Furious_X_Y"><img src="https://img.shields.io/badge/Join-Support%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
 
  - Thanks for visiting our repo💖
 
