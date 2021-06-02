@@ -15,11 +15,11 @@
 
  - We made this userbot with the help of other userbot on telegram. All credit goes to its respective owners.
 
- - Make and enjoy your bot
+ - Make and enjoy your bot ❣️
 
  - Join for update related info channel and group :-<a href="https://t.me/Furious_X_Y"><img src="https://img.shields.io/badge/Join-Support%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
 
- - THANKS FOR VISITING OUR REPO💖
+ - Thanks for visiting our repo💖
 
 
 
