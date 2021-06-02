@@ -7,7 +7,7 @@
 
 <h1 align="center"> 🇮🇳 THE DARK USERBOT 🇮🇳 </h1>
 
-<h2 align="center"> <a href="https://t.me/Harsh_78">💥 DARKBOT 💥</a></h2>
+<h2 align="center"> <a href="https://t.me/DARK_BOT_UPDATES">💥 DARKBOT 💥</a></h2>
 
 - This is a simple userbot made by [HARSH-78 ](https://t.me/Harsh_78)for telegram. 
 
@@ -25,7 +25,7 @@
 
 
 
-[![DARKBOT LOGO](https://telegra.ph/file/954404ea098b992470ea5.jpg)](https://t.me/Dark_bot_Support)
+[![DARKBOT LOGO](https://telegra.ph/file/f4e625347b2f8f065a30a.jpg)](https://t.me/Dark_bot_Support)
 
 <details>
 
