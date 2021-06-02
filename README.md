@@ -1,7 +1,14 @@
+[![Harsh-78 - Dark-Userbot](https://img.shields.io/static/v1?label=Harsh-78&message=Dark-Userbot&color=blue&logo=github)](https://github.com/Harsh-78/Dark-Userbot)
+[![stars - Dark-Userbot](https://img.shields.io/github/stars/Harsh-78/Dark-Userbot?style=social)](https://github.com/Harsh-78/Dark-Userbot)
+[![forks - Dark-Userbot](https://img.shields.io/github/forks/Harsh-78/Dark-Userbot?style=social)](https://github.com/Harsh-78/Dark-Userbot)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/Harsh-78/DARK-USERBOT/dashboard?branch=master)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Harsh-78/DARK-USERBOT)
 [![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/Harsh_78)
+[![GitHub tag](https://img.shields.io/github/tag/Harsh-78/Dark-Userbot?include_prereleases=&sort=semver)](https://github.com/Harsh-78/Dark-Userbot/releases/)
+[![License](https://img.shields.io/badge/License-GNU-blue)](#license)
+[![issues - Dark-Userbot](https://img.shields.io/github/issues/Harsh-78/Dark-Userbot)](https://github.com/Harsh-78/Dark-Userbot/issues
+
 
 
 <h1 align="center"> 🇮🇳 THE DARK USERBOT 🇮🇳 </h1>
