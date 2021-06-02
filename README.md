@@ -5,49 +5,98 @@
 [![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/Harsh_78)
 
 
+<h1 align="center"> 🇮🇳 THE DARK USERBOT 🇮🇳 </h1>
 
-# T H E D A R K U S E R B O T
-This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
+<h2 align="center"> <a href="https://t.me/Harsh_78">💥 DARKBOT 💥</a></h2>
 
-Darkbot made by @Harsh_78. Join for update related info channel and group :- https://t.me/Dark_Bot_Support THANKS FOR VISITING OUR REPO💖
-Very easy to deploy. You can deploy Darkbot in very less time
+- This is a simple userbot made by [HARSH-78 ](https://t.me/Harsh_78)for telegram. 
+
+ - You can deploy your own [DARKBOT](https://github.com/Harsh-78/dark-Userbot) and use it.
+
+ - We made this userbot with the help of other userbot on telegram. All credit goes to its respective owners.
+
+ - Make and enjoy your bot
+
+ - Join for update related info channel and group :-<a href="https://t.me/Furious_X_Y"><img src="https://img.shields.io/badge/Join-Support%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
+
+ - THANKS FOR VISITING OUR REPO💖
+
+
+
+
+
 [![DARKBOT LOGO](https://telegra.ph/file/954404ea098b992470ea5.jpg)](https://t.me/Dark_bot_Support)
 
-
-# The owner would not be responsible for any kind of bans due to the bot...
-
-
 <details>
 
-  <summary> • FOR ANY QUERY • </summary>
-<h2 align="center"> <a href="https://t.me/Dark_Bot_Support">☢️JOIN DARKBOT SUPPORT☢️</a></h2>
+<Summary> <h2> 🧾INSTRUCTIONS🧾 </h2> </Summary>
 
+- Read carefully
+        
+        - Fork at your own risk.
+        
+        - Owner will not be responsible for any kinds for ban due to bot.
+
+        - You can host this project on heroku,  Zeet, Uffizi.
+
+        - Please ask to owner before using codes.
 </details>
 
 
-# FORK AT YOUR OWN RISK
+# ⚡ DEPLOYING ⚡
 
-<details>
+### Deploy on Heroku
+  - To host on heroku click on below link
+     
+     <a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FHarsh-78%2FDARK-USERBOT&template=https%3A%2F%2Fgithub.com%2FHarsh-78%2FDARK-USERBOT" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
 
-  <summary> • INSTALLING • </summary>
+   - You can host it on also on other VPS
+       - [Zeet](https://zeet.co/new)
+       - [Uffizzi](https://uffizzi.com)
+       - Or any other hosting sites.
 
-### The Easy Way
 
-<h4>⚜️ DEPLOY TO HEROKU ⚜️</h4>
+## Generating String Session
 
-<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FHarsh-78%2FDARK-USERBOT&template=https%3A%2F%2Fgithub.com%2FHarsh-78%2FDARK-USERBOT" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
+  - Generate String session on repl it
+   
+       
+       [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@DARKHARSHOP/DARKBOT-STRING-GENERATOR#main.py) 
+        
+  - Generate by running code on Termux
+       - Install git package
+           `pkg install git`
+    - Clone this repository.
+           `git clone https://github.com/Harsh-78/Dark-Userbot.git`
+    - Then Do
+           `cd darkbot`
+    - Run String Generator By
+           `bash string.sh`
+    - Then Fill The Required Details.
+    - API ID, API HASH, PHONE NUMBER (WITH COUNTRY CODE)
 
-<h2 align="center"> <a href="https://github.com/Harsh-78/DARK-USERBOT">⚡  D A R K U S E R B O T ⚡</a></h2>
+ 
+# CREDITS 👨‍🔬
 
-</details>
+<h2 align="center"> <a href="https://github.com/H1M4n5huop/Mafia-bot">💥 MAFIABOT 💥</a></h2>
 
-<details>
 
-  <summary> • CREDITS👀 • </summary>
-<h2 align="center"> <a href="https://t.me/Harsh_78">💥 DARKBOT 💥</a></h2>
- One and only. Others with some misfuntioning brain stay out from this SUPER POWERFULL BOT😏
+ <h2 align="center"> <a href="https://github.com/The-hellbot/hellbot">💥 HELLBOT 💥</a></h2>
 
-</details>
+
+## • Harsh-78 ※┄┄➳  <a href="https://github.com/Harsh-78" alt="Harsh-78"> <img src="https://img.shields.io/badge/Harsh-78-E5E4E2?logo=github" /></a>
+
+
+## • FURIOUS XY ※┄┄➳  <a href="https://github.com/Furious-xy" alt="FURIOUS-XY"> <img src="https://img.shields.io/badge/Furious-XY-E5E4E2?logo=github" /></a>
+
+
+# OFFICIAL SUPPORT
+
+<a href="https://t.me/Dark_bot_updates"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
+
+<a href="https://t.me/Dark_bot_support"><img src="https://img.shields.io/badge/Join-Support%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
+
+[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/Harsh_78)
 
 <details>
 
@@ -94,45 +143,54 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 
 </details>
 
-<details>
 
-  <summary> • MANDATORY VARS • </summary>
+<details> <summary> • Mandatory Vars • </summary>
 
-- Only two of the environment variables are mandatory.
-- This is because of `telethon.errors.rpc_error_list.ApiIdPublishedFloodError`
-    - `APP_ID`:   You can get this value from https://my.telegram.org
-    - `API_HASH`:   You can get this value from https://my.telegram.org
+  - Some of the environment variables are mandatory.
+- These are listed below.
+    - `APP_ID`:   You can get this value from [here](https://my.telegram.org)
+    - `API_HASH`:   You can get this value from [here](https://my.telegram.org)
+    - `ENV`:   `ANYTHING`
+    - `STRING_SESSION`:   You can get this value from running `python3 string_session.py` in termux after cloning this repo. Or just using [repl run](https://repl.it/@darkharshop/Darkbot-string-generator#main.py)
+    - `LOG_GROUP`:   Make a Channel Or Group and get it's id.
+    - `DATABASE_URL`:   Make a database on elephant sql and paste the url.
+    - `DB_URI`:   Same as `DATABASE_URL`
+    - `BOT_TOKEN`:   Make a Bot from [Botfather](https://t.me/botfather) and paste the bot token here.
+    - `BOT_USERNAME`:   Paste the Username of bot that you made from [BotFather](https://t.me/botfather).
 - The userbot will not work without setting the mandatory vars.
-
-
 </details>
 
-<details>
 
+<details>
   <summary> • LICENSE • </summary>
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-Copyright (C) 2021 HARSH-78
+Copyright (C) 2021 Harsh-78
+Released under [GNU](/LICENSE) by [@Harsh-78](https://github.com/harsh-78).
 
-Poject [DARKBOT](https://github.com/Harsh-78/DARK-USERBOT/) is free software: you can redistribute it and/or modify
-
+Poject [DARKBOT](https://github.com/Harsh-78/dark-userbot) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
-
 the Free Software Foundation, either version 3 of the License, or
-
 (at your option) any later version.
 
 This program is distributed in the hope that it will be useful,
-
 but WITHOUT ANY WARRANTY; without even the implied warranty of
-
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-
 GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
-
 along with this program. If not, see <https://www.gnu.org/licenses/>.
 
+
 </details>
+
+
+
+
+
+
+
+
+
+
