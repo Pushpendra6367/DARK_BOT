@@ -85,10 +85,6 @@
  
 # CREDITS 👨‍🔬
 
-<h2 align="center"> <a href="https://github.com/H1M4n5huop/Mafia-bot">💥 MAFIABOT 💥</a></h2>
-
-
- <h2 align="center"> <a href="https://github.com/The-hellbot/hellbot">💥 HELLBOT 💥</a></h2>
 
 
 ## • HARSH-78 ※┄┄➳  <a href="https://github.com/Harsh-78" alt="Harsh-78"> <img src="https://img.shields.io/badge/Harsh-78-E5E4E2?logo=github" /></a>
