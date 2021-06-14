@@ -15,7 +15,7 @@
 
 <h2 align="center"> <a href="https://t.me/DARK_BOT_UPDATES">💥 DARKBOT 💥</a></h2>
 
-- This is a simple userbot made by [HARSH-78 ](https://t.me/Harsh_78)for telegram. 
+- This is a simple userbot made by [HARSH ](https://t.me/Harsh_78)for telegram. 
 
  - You can deploy your own [DARKBOT](https://github.com/Harsh-78/dark-Userbot) and use it.
 
