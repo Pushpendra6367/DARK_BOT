@@ -44,7 +44,7 @@
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "",
+      "value": "https://telegra.ph/file/63aa054a3bffc4ae85022.jpg",
       "required": true
     },
     "CUSTOM_PMPERMIT": {
@@ -122,7 +122,7 @@
     },
     "TG_BOT_TOKEN_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.dog/BotFather) and get the token of your bot. And Don't Forget To Turn on inline Mode on bot settings. Get it.",
-      "value": "1841735585:AAF3Ts33cLptnQYX8VSXBnVJ5zMjA_mmyVM"
+      "value": "1876352440:AAEhyIVHuuyY0nPwNCZCUisLVSIfPusqm64"
     },
     "CHROME_BIN": {
       "description": "For Carbon.py. Leave as it is. ",
@@ -136,7 +136,7 @@
     },
     "TG_BOT_USER_NAME_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at @BotFather and get the username of your bot",
-      "value": "@Personal_Public_Bot"
+      "value": "@Public_User_Bot"
     },
     "OPEN_WEATHER_MAP_APPID": {
       "description": "Get your own APPID from https://api.openweathermap.org/data/2.5/weather",
