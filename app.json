@@ -34,7 +34,7 @@
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .alive command.",
-      "value": "",
+      "value": "https://telegra.ph/file/73045be500e05a74e6b68.jpg",
       "required": false
     },
     "BIO_MSG": {
