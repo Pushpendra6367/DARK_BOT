@@ -62,6 +62,8 @@
     - Then Fill The Required Details.
     - API ID, API HASH, PHONE NUMBER (WITH COUNTRY CODE)
 
+</details>
+
 <details><summary> <h1 align="center">CREDITS 👨‍🔬</h1> </summary>
  
 
@@ -70,6 +72,8 @@
 ### • Harsh-78 ※┄┄➳  <a href="https://github.com/Harsh-78" alt="Harsh-78"> <img src="https://img.shields.io/badge/Harsh-78-E5E4E2?logo=github" /></a>
 
 ### • FuriousXprince ※┄┄➳ <a href="https://github.com/FuriosXprince" alt="Harsh-78"> <img src="https://img.shields.io/badge/Harsh-78-E5E4E2?logo=github" /></a>
+
+</details>
 
 <details><summary> <h1 align="center">Official Support</h1> </summary>
  
@@ -80,6 +84,7 @@
 [![Contact Us](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/Nikkuiii)
 
 <details>
+
   <summary> <h3>• LICENSE •</h3> </summary>
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
