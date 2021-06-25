@@ -3,7 +3,7 @@ from telethon.sync import TelegramClient
 import random
 from colorama import Fore, Style, Back
 
-Harsh = """
+Pushpendra = """
 
 █▀▄▀█ ▄▀█ █▀ ▀█▀ █▀▀ █▀█  
 █░▀░█ █▀█ ▄█ ░█░ ██▄ █▀▄  
@@ -28,14 +28,14 @@ Pushpendra_hu_bc = """
 
 """
 print("")
-print(Style.BRIGHT + Fore.MAGENTA + Harsh)
+print(Style.BRIGHT + Fore.MAGENTA + Pushpendra)
 print(Style.RESET_ALL)
 print(Style.BRIGHT + Fore.CYAN + logo)
 print(Style.RESET_ALL)
-print(Style.BRIGHT + Fore.RED + Back.BLUE + Harsh_hu_bc)
-print("""𝙼𝙰𝙳𝙴 𝙱𝚈 𝙷𝙰𝚁𝚂𝙷 𝚆𝙸𝚃𝙷 𝙼𝙸𝙽𝙳""")
+print(Style.BRIGHT + Fore.RED + Back.BLUE + Pushpendra_hu_bc)
+print("""𝙼𝙰𝙳𝙴 𝙱𝚈 𝙿𝚄𝚂𝙷𝙿𝙴𝙽𝙳𝚁𝙰 𝚆𝙸𝚃𝙷 𝙼𝙸𝙽𝙳""")
 print(Style.RESET_ALL)
-print("""Welcome To DarkBot String Session Generator By @HARSH_78\n\n""")
+print("""Welcome To DarkBot String Session Generator By @Nikkuiii\n\n""")
 print("""Enter Your Valid Details To Continue!\n\n """)
 
 API_KEY = input("API_ID:  ")
