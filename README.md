@@ -38,10 +38,12 @@
        - [Zeet](https://zeet.co/new)
        - [Uffizzi](https://uffizzi.com)
        - Or any other hosting sites.
+</details>
 
+<details><summary> <h1 align="center">Generating String Session</h1> </summary>
+ 
 
-## Generating String Session
-
+## 
   - Generate String session on repl it
    
        
