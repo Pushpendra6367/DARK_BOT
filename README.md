@@ -1,7 +1,4 @@
 [![Pushpendra6367 - DARKBOT](https://img.shields.io/static/v1?label=Pushpendra6367&message=DARKBOT&color=blue&logo=github)](https://github.com/Pushpendra6367/DARK_BOT)
-[![stars - DARKBOT](https://img.shields.io/github/stars/Pushpendra6367/DARK-BOT?style=social)](https://github.com/Pushpendra6367/DARK_BOT)
-[![forks - DARKBOT](https://img.shields.io/github/forks/Pushpendra6367/DARKBOT?style=social)](https://github.com/Pushpendra6367/DARK_BOT)
-[![GitHub tag](https://img.shields.io/github/tag/Pushpendra6367/DARKBOT?include_prereleases=&sort=semver)](https://github.com/Pushpendra6367/DARKBOT/releases/)
 [![License](https://img.shields.io/badge/License-GNU-blue)](#license)
 
 
@@ -27,9 +24,7 @@
         - Please ask to owner before using codes.
 </details>
 
-# ⚡ DEPLOYING ⚡
-
-### Deploy on Heroku
+### ⚡ DEPLOYING ⚡
   - To host on heroku click on below link
      
      
