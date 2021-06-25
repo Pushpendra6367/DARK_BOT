@@ -17,7 +17,7 @@
 
 echo """
                       © 𝙻𝙴𝙶𝙴𝙽𝙳𝙰𝚁𝚈_𝙰𝙵_DARKBOT                      
-                         @DARK_Bot_Support
+                        @DARK_Bot_chit_chat
 """
 
 python3 string_session.py
