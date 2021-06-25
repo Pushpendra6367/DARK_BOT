@@ -62,9 +62,8 @@
     - Then Fill The Required Details.
     - API ID, API HASH, PHONE NUMBER (WITH COUNTRY CODE)
 
-
-# CREDITS 👨‍🔬
-
+<details><summary> <h1 align="center">CREDITS 👨‍🔬</h1> </summary>
+ 
 
  ## • FURIOUS XY ※┄┄➳  <a href="https://github.com/Furious-xy" alt="FURIOUS-XY"> <img src="https://img.shields.io/badge/Furious-XY-E5E4E2?logo=github" /></a>
 
@@ -72,8 +71,8 @@
 
 ### • FuriousXprince ※┄┄➳ <a href="https://github.com/FuriosXprince" alt="Harsh-78"> <img src="https://img.shields.io/badge/Harsh-78-E5E4E2?logo=github" /></a>
 
-# Official Support
-
+<details><summary> <h1 align="center">Official Support</h1> </summary>
+ 
 <a href="https://t.me/Darkbot_channel"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
 
 <a href="https://t.me/Dark_bot_chit_chat"><img src="https://img.shields.io/badge/Join-Support%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
