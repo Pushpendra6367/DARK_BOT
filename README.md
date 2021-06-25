@@ -12,7 +12,7 @@
 
  
 
-[![DARK BOT](https://telegra.ph/file/3b787d6a45c519e32fc2e.jpg)](https://t.me/Pushpendra6367)
+[![DARK BOT](https://telegra.ph/file/39f09438e6d3d43c56d47.jpg)](https://t.me/Dark_bot_chit_chat)
 
 
 <details><summary> <h1 align="center">🧾INSTRUCTIONS🧾</h1> </summary>
