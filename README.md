@@ -74,18 +74,18 @@
 
 # Official Support
 
-<a href="https://t.me/Dark_bot_chit_chat"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Darkbot_channel"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
 
-<a href="https://t.me/Darkbot_channel"><img src="https://img.shields.io/badge/Join-Support%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Dark_bot_chit_chat"><img src="https://img.shields.io/badge/Join-Support%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
 
-[![Contact Us](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/Furious_X_Y)
+[![Contact Us](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/Nikkuiii)
 
 <details>
   <summary> <h3>• LICENSE •</h3> </summary>
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-Copyright (C) 2021 Furious XY
+Copyright (C) 2021 Pushpendra6367
 
 Poject [Dark bot](https://github.com/Pushpendra6367/Dark-userbot) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
