@@ -24,7 +24,8 @@
         - Please ask to owner before using codes.
 </details>
 
-# ⚡ DEPLOYING ⚡
+<details><summary> <h1 align="center">⚡ DEPLOYING ⚡</h1> </summary>
+ 
 
 ### DEPLOY TO HERUOKU
   - To host on heroku click on below link
