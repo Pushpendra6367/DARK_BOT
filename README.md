@@ -1,4 +1,4 @@
-[![PUSHPENDRA6367 - DARK-Userbot](https://img.shields.io/static/v1?label=Furious-XY&message=Personal-Userbot&color=blue&logo=github)](https://github.com/Furious-XY/Personal-Userbot)
+[![PUSHPENDRA6367 - Dark-Userbot](https://img.shields.io/static/v1?label=PUSHPENDRA6367&message=Dark-Userbot&color=blue&logo=github)](https://github.com/PUSHPENDRA6367/Dark-Userbot)
 [![stars - Personal-Userbot](https://img.shields.io/github/stars/Furious-XY/Personal-Userbot?style=social)](https://github.com/Furious-XY/Personal-Userbot)
 [![forks - Personal-Userbot](https://img.shields.io/github/forks/Furious-XY/Personal-Userbot?style=social)](https://github.com/Furious-XY/Personal-Userbot)
 [![GitHub tag](https://img.shields.io/github/tag/Furious-XY/Personal-Userbot?include_prereleases=&sort=semver)](https://github.com/Furious-XY/Personal-Userbot/releases/)
