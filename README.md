@@ -1,9 +1,8 @@
-[![Pushpendra6367 - Dark-Userbot](https://img.shields.io/static/v1?label=Pushpendra6367&message= Dark-Userbot&color=blue&logo=github)](https://github.com/Pushpendra6367/Dark-Userbot)
-[![stars - Dark-Userbot](https://img.shields.io/github/stars/Pushpendra6367/Dark-Userbot?style=social)](https://github.com/Pushpendra6367/Dark-Userbot)
-[![forks - Dark-Userbot](https://img.shields.io/github/forks/Pushpendra6367/Dark-Userbot?style=social)](https://github.com/Pushpendra6367/Dark-Userbot)
+[![Furious-XY - Personal-Userbot](https://img.shields.io/static/v1?label=Furious-XY&message=Personal-Userbot&color=blue&logo=github)](https://github.com/Furious-XY/Personal-Userbot)
+[![stars - Personal-Userbot](https://img.shields.io/github/stars/Furious-XY/Personal-Userbot?style=social)](https://github.com/Furious-XY/Personal-Userbot)
+[![forks - Personal-Userbot](https://img.shields.io/github/forks/Furious-XY/Personal-Userbot?style=social)](https://github.com/Furious-XY/Personal-Userbot)
+[![GitHub tag](https://img.shields.io/github/tag/Furious-XY/Personal-Userbot?include_prereleases=&sort=semver)](https://github.com/Furious-XY/Personal-Userbot/releases/)
 [![License](https://img.shields.io/badge/License-GNU-blue)](#license)
-
-
 
 
 <h1 align="center"> 🇮🇳  D A R K  B O T 🇮🇳 </h1>
