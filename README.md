@@ -1,11 +1,11 @@
-[![Pushpendra6367 - DARKBOT](https://img.shields.io/static/v1?label=Pushpendra6367&message=DARKBOT&color=blue&logo=github)](https://github.com/Pushpendra6367/DARK_BOT)]
-[![stars - Personal-Userbot](https://img.shields.io/github/stars/Furious-XY/Personal-Userbot?style=social)](https://github.com/Furious-XY/Personal-Userbot)
-[![forks - Personal-Userbot](https://img.shields.io/github/forks/Furious-XY/Personal-Userbot?style=social)](https://github.com/Furious-XY/Personal-Userbot)
-[![GitHub tag](https://img.shields.io/github/tag/Furious-XY/Personal-Userbot?include_prereleases=&sort=semver)](https://github.com/Furious-XY/Personal-Userbot/releases/)
+[![Pushpendra6367 - DARKBOT](https://img.shields.io/static/v1?label=Pushpendra6367&message=DARKBOT&color=blue&logo=github)](https://github.com/Pushpendra6367/DARK_BOT)
+[![stars - DARKBOT](https://img.shields.io/github/stars/Pushpendra6367/DARK-BOT?style=social)](https://github.com/Pushpendra6367/DARK_BOT)
+[![forks - DARKBOT](https://img.shields.io/github/forks/Pushpendra6367/DARKBOT?style=social)](https://github.com/Pushpendra6367/DARKBOT)
+[![GitHub tag](https://img.shields.io/github/tag/Pushpendra6367/DARKBOT?include_prereleases=&sort=semver)](https://github.com/Pushpendra6367/DARKBOT/releases/)
 [![License](https://img.shields.io/badge/License-GNU-blue)](#license)
 
 
-<h1 align="center"> 🇮🇳  D A R K  B O T 🇮🇳 </h1>
+<h1 align="center"> 🇮🇳 D A R K  B O T 🇮🇳 </h1>
 
 
 
