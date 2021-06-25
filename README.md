@@ -62,8 +62,6 @@
 
 # CREDITS 👨‍🔬
 
-<h2 align="center"> <a href="https://github.com/Harsh-78/Dark-userbot">💥 DARKBOT 💥</a></h2>
- 
 
  ## • FURIOUS XY ※┄┄➳  <a href="https://github.com/Furious-xy" alt="FURIOUS-XY"> <img src="https://img.shields.io/badge/Furious-XY-E5E4E2?logo=github" /></a>
 
