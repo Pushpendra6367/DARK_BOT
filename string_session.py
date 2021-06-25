@@ -22,7 +22,7 @@ logo = """
 ▒█░▒█ ▒█▄▄█ ▒█▄▄▀ ▒█▀▄░ ▒█▀▀▄ ▒█░░▒█ ░▒█░░ 
 ▒█▄▄▀ ▒█░▒█ ▒█░▒█ ▒█░▒█ ▒█▄▄█ ▒█▄▄▄█ ░▒█░░
 """
-Harsh_hu_bc = """
+Pushpendra_hu_bc = """
 ⚡ 𝙼𝙰𝚂𝚃𝙴𝚁 𝙰𝚃 𝙳𝙰𝚁𝙺𝙱𝙾𝚃 🔥        
 
 
@@ -51,7 +51,7 @@ while True:
             session = client.session.save()
             client.send_message(
                 "me",
-                f"Here is your TELEGRAM STRING SESSION\n(Tap to copy it)👇 \n\n `{session}` \n\n And Visit @DARK_Bot_Support For Any Help!\n\n",
+                f"Here is your TELEGRAM STRING SESSION\n(Tap to copy it)👇 \n\n `{session}` \n\n And Visit @DARK_Bot_chit_chat For Any Help!\n\n",
             )
 
             print(
