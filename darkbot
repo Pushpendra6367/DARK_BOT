@@ -28,7 +28,7 @@ _get_repolink () {
 _set_bot () {
     local zippath
     zippath="DARKBot.zip"
-    echo "  Downloading source code ..."
+    echo " Downloading original source code... "
     wget -q $(_get_repolink) -O "$zippath"
     echo "  Unpacking Data ..."
     PersonalPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
